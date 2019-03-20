@@ -1,0 +1,16 @@
+.App-logo {height: 40vmin;
+           animation: App-logo-spin infinite 20s linear;}
+.App-header {min-height: 100vh;
+             color: white;
+             font-size: calc(10px + 2vmin);
+             background-color: #282c34;
+             flex-direction: column;
+             align-items: center;
+             justify-content: center;
+             display: flex;}
+.App-link {color: #61dafb;}
+.clear-fix {margin-bottom: 10px;
+            clear: both;}
+.inline-error {color: #f44336;}
+@keyframes App-logo-spin {from {transform: rotate(0deg);}
+                          to {transform: rotate(360deg);}}
